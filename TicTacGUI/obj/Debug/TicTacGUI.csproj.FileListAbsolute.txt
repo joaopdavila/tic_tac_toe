@@ -1,0 +1,14 @@
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\bin\Debug\TicTacGUI.exe.config
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\bin\Debug\TicTacGUI.exe
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\bin\Debug\TicTacGUI.pdb
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\obj\Debug\TicTacGUI.csproj.AssemblyReference.cache
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\obj\Debug\TicTacGUI.csproj.SuggestedBindingRedirects.cache
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\obj\Debug\TicTacGUI.Properties.Resources.resources
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\obj\Debug\TicTacGUI.csproj.GenerateResource.cache
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\obj\Debug\TicTacGUI.csproj.CoreCompileInputs.cache
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\obj\Debug\TicTacGUI.exe
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\obj\Debug\TicTacGUI.pdb
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\bin\Debug\BoardLogic.dll
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\bin\Debug\BoardLogic.pdb
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\obj\Debug\TicTacGUI.Form1.resources
+C:\Personal VS Code\Personal\tic_tac_toe\TicTacGUI\obj\Debug\TicTacGUI.csproj.CopyComplete

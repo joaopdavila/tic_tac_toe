@@ -1,0 +1,6 @@
+C:\Personal VS Code\Personal\tic_tac_toe\BoardLogic\bin\Debug\BoardLogic.dll
+C:\Personal VS Code\Personal\tic_tac_toe\BoardLogic\bin\Debug\BoardLogic.pdb
+C:\Personal VS Code\Personal\tic_tac_toe\BoardLogic\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
+C:\Personal VS Code\Personal\tic_tac_toe\BoardLogic\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Personal VS Code\Personal\tic_tac_toe\BoardLogic\obj\Debug\BoardLogic.dll
+C:\Personal VS Code\Personal\tic_tac_toe\BoardLogic\obj\Debug\BoardLogic.pdb
